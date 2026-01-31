@@ -1,3 +1,3 @@
 # Table of contents
 
-* [GDP](README.md)
+* [Economy](README.md)
