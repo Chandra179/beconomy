@@ -1,6 +1,6 @@
 # Economy
 
-### Core Economic Principles
+## Core Economic Principles
 
 * **Market Efficiency:** The property of society getting the maximum benefits from its scarce resources.
 * **Market Equality:** The property of distributing economic prosperity uniformly among the members of society.
@@ -12,7 +12,7 @@
 
 ***
 
-### The Invisible Hand and the Role of Government
+## The Invisible Hand and the Role of Government
 
 **Smith’s insight has an important corollary:** When a government prevents prices from adjusting naturally to supply and demand, it impedes the invisible hand’s ability to coordinate the decisions of the households and firms that make up an economy.
 
@@ -30,14 +30,14 @@ The **invisible hand** (market forces) can only function effectively when the go
 
 ***
 
-### Productivity and Living Standards
+## Productivity and Living Standards
 
 * **Basis of Living Standards:** Almost all variation in living standards is attributable to differences in countries’ productivity—that is, the amount of goods and services produced by each unit of labor input.
 * **Policy Implications:** To boost living standards, policymakers need to raise productivity by ensuring that workers are well educated, have the tools they need to produce goods and services, and have access to the best available technology.
 
 ***
 
-### Inflation and the Short-Run Trade-off
+## Inflation and the Short-Run Trade-off
 
 * **Inflation:** An increase in the overall level of prices in the economy.
 * **Short-Run Trade-off between Inflation and Unemployment:**
@@ -49,7 +49,7 @@ The **invisible hand** (market forces) can only function effectively when the go
 
 ***
 
-### Economic Methodology
+## Economic Methodology
 
 #### The Scientific Approach
 
@@ -64,25 +64,25 @@ Economists make assumptions for the same reason:
 
 ***
 
-### Economic Models
+## Economic Models
 
-#### Circular Flow Diagram
+### Circular Flow Diagram
 
 The Circular-Flow Diagram is a visual model of the economy that shows how dollars flow through markets among households and firms. It simplifies the complex economy into two main players and two main markets.
 
-**1. The Two Key Players**
+**The Two Key Players**
 
 * **Households:** These are the people who own all the factors of production (like their labor) and consume all the goods and services.
 * **Firms:** These are the businesses that produce goods and services using inputs like labor, land, and capital.
 
-**2. The Two Main Markets**
+**The Two Main Markets**
 
 The diagram shows two distinct "loops" where these players meet:
 
 * **Markets for Goods and Services:** Households are the buyers and firms are the sellers. Households spend money to get the things they need.
 * **Markets for Factors of Production:** Households are the sellers (providing their labor/work) and firms are the buyers. Firms pay households wages, rent, and profit for their help.
 
-**3. How the Flows Work**
+**How the Flows Work**
 
 There are two different types of "currents" flowing in opposite directions:
 
@@ -97,13 +97,13 @@ There are two different types of "currents" flowing in opposite directions:
   3. Firms use that revenue to pay for labor and rent (Costs).
   4. That money returns to Households as Income (wages/profit).
 
-#### Production Possibilities Frontier (PPF)
+### Production Possibilities Frontier (PPF)
 
 PPF is a fundamental economic graph that shows the maximum possible output combinations of two goods an economy can produce using its available resources and technology. It is a visual representation of scarcity, trade-offs, and efficiency.
 
 ***
 
-### Fields of Study and the Role of the Economist
+## Fields of Study and the Role of the Economist
 
 #### Microeconomics vs. Macroeconomics
 
@@ -125,3 +125,77 @@ Conflict in economic advice usually stems from two main sources:
 
 * **Differences in Scientific Judgment:** Economists may have different hunches about the validity of a theory or the size of a specific impact (e.g., disagreeing on whether people save more if taxes are cut).
 * **Differences in Values:** Because policy involves "fairness," economists may disagree based on their personal or political beliefs (e.g., debating whether it is "fairer" to tax wealth or income).
+
+## Comparative Advantage
+
+**Comparative Advantage** is the ability to produce a specific good at a lower opportunity cost than another producer. For both parties to gain from trade, the price at which they trade must lie between the two opportunity costs.
+
+**Absolute Advantage** looks at who is faster or more productive. The producer that requires a smaller quantity of inputs to produce a good is said to have an absolute advantage in producing that good.
+
+Import and Export
+
+***
+
+## Supply and Demand
+
+#### Fundamentals of a Market
+
+Market: A group of buyers and sellers of a particular good or service.
+
+* The Buyers: As a group, they determine the demand for the product.
+* The Sellers: As a group, they determine the supply of the product.
+
+Competitive Market: A market in which there are so many buyers and so many sellers that each has a negligible impact on the market price.
+
+#### Demand
+
+* Quantity Demanded: The amount of the good that buyers are willing and able to purchase.
+* Market Demand: Essentially the sum of all individual demands for a specific good.
+* Law of Demand: (The principle governing the relationship between price and quantity demanded).
+
+#### Supply
+
+* Quantity Supplied: The amount of any good or service that sellers are willing and able to sell.
+* Market Supply vs. Individual Supply: Just as market demand is the sum of the demands of all buyers, market supply is the sum of the supplies of all sellers.
+* Law of Supply: (The principle governing the relationship between price and quantity supplied).
+
+#### Equilibrium and Market Imbalance
+
+* Equilibrium: The point where the market "clears." It is the specific price and quantity where the intentions of buyers and sellers perfectly align.
+* Shortage / Excess Demand: A situation where demanders are unable to buy all they want at the going price.
+
+#### Three-Step Process to Analyze Changes in Equilibrium
+
+To understand how an event affects a market, follow these steps:
+
+1. Decide whether the event shifts the supply or demand curve (or perhaps both).
+2. Decide in which direction the curve shifts.
+3. Use the supply-and-demand diagram to see how the shift changes the equilibrium price and quantity.
+
+***
+
+## Elasticity
+
+#### Elastic Demand
+
+Demand is elastic when a small change in price leads to a big change in how much people buy. This usually happens with "wants" rather than "needs." If the price goes up even a little, people quickly switch to a different brand or stop buying it altogether because they are sensitive to the cost.
+
+* Example: If the price of a specific brand of chocolate doubles, you’ll probably buy a different brand or a different snack.
+
+#### Inelastic Demand
+
+Demand is inelastic when a change in price has very little effect on how much people buy. This happens with "needs" or things that have no good substitutes. Consumers are less sensitive to the cost because they feel they must have the product regardless of the price.
+
+* Example: If the price of life-saving insulin or gasoline goes up, people generally continue to buy the same amount because they don't have a choice.
+
+#### Why Did OPEC Fail to Keep the Price of Oil High?
+
+In the **short run**, both the supply and demand for oil are highly inelastic. This means that because oil reserves and extraction technology cannot be changed quickly, and consumers cannot immediately swap their cars or heating systems, the supply and demand curves are very steep. When OPEC collectively reduced supply in the 1970s, this inelasticity caused the price of oil to skyrocket, significantly increasing the cartel's total revenue because the price increase far outweighed the drop in quantity sold.
+
+However, the market eventually adjusted as l**ong-run** forces took hold. Over several years, high prices incentivized non-OPEC countries to invest in new oil exploration and extraction, while consumers transitioned to fuel-efficient vehicles and conservation efforts. These changes made both supply and demand more elastic, resulting in flatter curves. Consequently, the same **supply restrictions** that once caused massive price spikes became much less effective, leading to a steady decline in prices and the eventual breakdown of the cartel's cooperation in the mid-1980s.
+
+#### Does Drug Interdiction Increase or Decrease Drug-Related Crime?
+
+Drug interdiction focuses on reducing the supply of drugs by catching smugglers and seizing shipments. While this successfully raises the price and reduces the total quantity of drugs consumed, it often backfires regarding public safety. Because drug addicts face a physical dependency, their demand is highly inelastic—they will pay almost any price to get their fix.
+
+When interdiction makes drugs scarcer and more expensive, the price jump is much larger than the drop in usage. As a result, the total revenue paid to drug dealers actually increases. To cover these significantly higher costs, addicts may turn to more frequent or more violent crime, meaning that while drug use goes down, drug-related crime often goes up.
