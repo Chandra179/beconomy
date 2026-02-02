@@ -316,4 +316,144 @@ To address the inefficiencies caused by externalities, governments generally emp
 
 Think of **market-based policies** as the government changing the price tags on certain behaviors rather than just making them illegal. Instead of telling a company "You are not allowed to do this," the government says, "You can do this, but it’s going to cost you."
 
-While externalities often lead to market inefficiencies, they can be resolved privately through **moral codes, charities, or contracts between interested parties**. The Coase theorem suggests that if private parties can bargain without cost, they will reach an efficient outcome regardless of how legal rights are initially distributed, as parties will naturally negotiate to "internalize" the costs or benefits. However, this often fails in the real world due to transaction costs, such as legal fees or the difficulty of coordinating large groups, which prevents a mutually beneficial agreement from being reached.
+While externalities often lead to market inefficiencies, they can be resolved privately through **moral codes, charities, or contracts between interested parties**. The Coase theorem suggests that if private parties can bargain without cost, they will reach an efficient outcome regardless of how legal rights are initially distributed, as parties will naturally negotiate to "internalize" the costs or benefits. However, this often fails in the real world due to transaction costs, such as legal fees or the difficulty of coordinating large groups, which prevents a mutually beneficial agreement from being reached.\\
+
+## Public Good and Common Resources
+
+**Non-excludable**: It is impossible (or prohibitively expensive) to prevent people from using the good once it exists.
+
+**Non-rival in consumption**: One person’s use of the good does not diminish the ability of others to use it.
+
+The **Free-Rider** Problem is the primary reason why free markets often fail to provide public goods like national defense or street lighting. At its core, the problem is driven by a lack of incentive: since these goods are "non-excludable" people naturally prefer to let someone else foot the bill while they enjoy the benefits for free.
+
+Governments can remedy this market failure by:
+
+1. Determining if the total benefits exceed the costs.
+2. Providing the good directly.
+3. Paying for it through taxation, which eliminates the free-rider problem by making payment mandatory.
+
+#### Private Goods
+
+These are the things we buy at the store every day.
+
+* Excludable: Yes. If you don't pay the shopkeeper, you don't get the item.
+* Rival: Yes. If I eat a specific apple, you cannot eat that same apple.
+* Examples: Ice cream cones, clothing, personal electronics.
+
+#### Public Goods
+
+These are the goods that the "Free Rider" problem affects.
+
+* Excludable: No. It is impossible or impractical to prevent people from benefiting (like trying to stop someone from breathing clean air or looking at the sky).
+* Rival: No. My enjoyment of the good doesn't "use it up" or make it worse for you.
+
+Example of public goods
+
+* National Defense: Protecting the country is non-excludable and non-rival. It is one of the most expensive and universally accepted public goods.
+* Basic Research: While specific inventions can be patented (making them excludable), general knowledge (like a mathematical theorem) is a public good. Without government subsidies, society would under-invest in basic science.
+* Fighting Poverty: Living in a society with less poverty provides a collective benefit. Because private charity is subject to free-riding, government-funded welfare programs (TANF, SNAP) are often used to achieve this social goal.
+
+#### **Cost-Benefit Analysis**
+
+if the government is going to provide public goods, how does it decide which ones are worth the money?
+
+In a private market, prices act as signals. If people value an iPhone at $1,000, they buy it, proving its value. Public goods (like a new highway) have no price tags, making it hard to measure their true worth.
+
+* No Price Signals: Since the good is free, there’s no market data to show how much people actually value it.
+* Unreliable Surveys: If you ask people if they want a highway, they might lie. Potential users will exaggerate the benefits to get it built; people living in the way will exaggerate the costs to stop it.
+
+The most difficult part of cost-benefit analysis is valuing things that aren't "goods," such as human safety. To decide whether to spend $10,000 on a traffic light, a town council must determine the **Value of a Statistical Life (VSL)**.
+
+#### Common Resources
+
+* Clean Air and Water: No one owns the atmosphere, so factories "overuse" it by dumping pollution into it for free.
+* Congested Roads: A road is a public good when empty, but once it's crowded, every new driver makes the trip slower for everyone else.
+* Fish and Wildlife: In the open ocean, no one owns the fish. Every fisherman has an incentive to catch as many as possible today, leading to the collapse of fish populations.
+
+To prevent a resource from being destroyed, governments usually step in with one of three strategies:
+
+1. Regulation: Setting limits (e.g., hunting seasons, "throw-back" rules for small fish, or pollution caps).
+2. Taxes/Tolls: Charging a fee to use the resource (e.g., congestion pricing on bridges or gasoline taxes) to force people to feel the "cost" of their usage.
+3. Privatization: Turning the resource into a Private Good. This is why cows aren't extinct but elephants are struggling; cows live on private ranches where owners have a profit motive to keep them alive and healthy.
+
+## Tax
+
+**Average Tax Rate**: This is your total tax bill divided by your total income. It tells you the sacrifice you are making
+
+The **Marginal Rate** is the price of the next plate.
+
+* If you are debating whether to go back for a 3rd plate, you only care about that $2.
+* If the "marginal" price was suddenly raised to $15 per plate, you’d probably stop eating.
+* In Economics, This is your incentive. If the tax on your _next_ hour of work is too high, you might decide to go home and nap instead.
+
+#### Income Tax vs. Consumption Tax
+
+If you **earn interest on your savings**, the government taxes that interest. Over 40 years, this can cut your potential savings by more than half. Some economists suggest taxing only what people _spend_. Under this system, any money you save is tax-free until you eventually spend it.
+
+European countries use a **Value-Added Tax (VAT)**, which is a consumption tax collected at each stage of production. The U.S. has "mini" consumption taxes like 401(k) plans, where you aren't taxed on savings until you retire.
+
+#### The Administrative Burden
+
+The cost of a tax isn't just the money sent to the government; it also includes:
+
+* Time and Effort: The "headache" of record-keeping and filling out forms.
+* Tax Avoidance: Money spent on lawyers and accountants to find "loopholes" (special provisions in the law that allow lower payments).
+* Deadweight Loss: These resources (time and professional fees) are considered a total loss to society because they don't produce anything of value; they just move money around.
+
+#### The Lump-Sum Tax
+
+* Efficiency: It has a marginal tax rate of zero. It doesn't discourage you from working harder because your tax bill won't go up if you earn more.
+* Administrative Ease: No forms, no lawyers, no math.
+* The Problem (Equity): It is extremely "unfair" to the poor. A $6,000 tax might be 50% of a low-earner's income but only 0.1% of a rich person's income.
+
+#### Tax Equity
+
+This principle suggests that people should pay taxes based on the benefits they receive from the government.<a class="button secondary"></a>
+
+* The Logic: It treats public services like a shop. If you use the road more, you should pay more for it.
+* Examples: The gasoline tax—the money goes to roads used by those buying the gas.
+* Argument for taxing the rich: Wealthy people have more to lose from crime or foreign invasion, so they benefit more from the police, the court system, and national defense. Therefore, they should pay more for these services.
+
+This principle suggests that taxes should be based on how well a person can handle the financial burden. It aims for "equal sacrifice."
+
+* Vertical Equity: Richer citizens should pay more than poorer ones because $1,000 "hurts" a poor person much more than a rich person.
+* Horizontal Equity: People with similar incomes/circumstances should pay the same amount.
+
+***
+
+Economists mock the **Flypaper Theory**—the idea that the burden of a tax "sticks" to whoever the government sends the bill to. In reality, taxes shift:
+
+* Luxury Taxes: A tax on fur coats might seem like it taxes the rich. But if the rich just buy jewelry instead, the fur coat business dies. The people who actually "pay" the tax are the factory workers who lose their jobs.
+* Corporate Taxes: Only _people_ pay taxes, not buildings. When a corporation is taxed, the cost is passed on to:
+  1. Consumers (higher prices).
+  2. Workers (lower wages).
+  3. Owners/Shareholders (lower profits).
+
+## Costs Of Production
+
+$$\text{Profit} = \text{Total Revenue} - \text{Total Cost}$$
+
+**Explicit Costs**: These involve an actual outlay of money. Examples for Chloe include paying for flour, sugar, rent, and worker wages.
+
+**Implicit Costs**: These do not require a cash payment but represent a lost opportunity.
+
+* _Example:_ If Chloe is a skilled programmer who could earn $100/hour elsewhere, every hour she spends baking cookies "costs" her $100 in lost wages.
+
+#### **Cost of Capital**
+
+A major implicit cost for most businesses is the interest that could have been earned on invested money.
+
+* Scenario A (Using Savings): If Chloe uses $300,000 of her own savings to buy the factory, her accountant sees $0 cost. An economist sees a $15,000 implicit cost (the 5% interest she gave up).
+* Scenario B (Borrowing): If she borrows $200,000 and uses $100,000 of her own money, the accountant only records the $10,000 interest paid to the bank (explicit). The economist still sees a total cost of $15,000 ($10k explicit + $5k implicit).
+
+**Two Types of Profit**
+
+* Accounting Profit: This is what most people mean when they say "profit." It is simply your Total Revenue minus your Explicit Costs (the cash you actually paid out).
+* Economic Profit: This is the "true" profit from an economist's perspective. It is Total Revenue minus all Opportunity Costs (both Explicit _and_ Implicit).
+
+#### Diminishing Marginal Product
+
+This is the most important concept in the section. Marginal Product is the _extra_ output you get from adding one more worker.
+
+* Why it drops: Imagine Chloe’s kitchen. The first worker is very productive. The second worker helps. But by the fifth or sixth worker, the kitchen gets crowded. They have to wait to use the oven or the mixer.
+* The Result: Each additional worker adds _less_ to total production than the worker before them. This is called Diminishing Marginal Product.
