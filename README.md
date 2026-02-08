@@ -499,3 +499,32 @@ $$\text{Profit} = (P - ATC) \times Q$$
 * If $$P < ATC$$**:** The firm is incurring an Economic Loss.
 * If $$P = ATC$$**:** The firm is at its "Efficient Scale" (minimum per-unit cost).
 
+***
+
+## Monopoly
+
+A monopoly can form if a single firm owns a key resource that has no close substitutes.
+
+* If you own the only well in town, you have a monopoly on water.
+* Real-World Example: DeBeers, which at its peak controlled about 80% of the world's diamond production. This is the rarest form of monopoly because, in a global economy, resources are usually owned by many different parties.
+
+#### Government-Created Monopolies
+
+Governments often grant exclusive rights to a single firm because it is believed to serve the public interest.
+
+* Patents: Give pharmaceutical companies the exclusive right to sell a drug for 20 years to reward the high cost of research and development.
+* Copyrights: Give authors the exclusive right to their work to encourage creative output.
+* The Trade-off: While these laws lead to higher prices (monopoly pricing), they provide the necessary incentive for innovation and creativity.
+
+#### Natural Monopolies
+
+A Natural Monopoly occurs when the production process is such that one firm can provide the good or service to the entire market at a lower cost than two or more firms could.
+
+* Economies of Scale: This happens when the Average Total Cost (ATC) curve continually declines as output increases.
+* Network Infrastructure: Think of water pipes or an electric grid. It is much cheaper for one company to lay pipes through a town than for five companies to each build their own separate pipe networks.
+* Market Size Matters: A bridge might be a natural monopoly in a small town. However, if the population grows and the bridge becomes congested, the market may eventually support multiple bridges, becoming more competitive.
+
+a monopolist faces the downward-sloping market demand curve, meaning its Marginal Revenue ($$MR$$) is always lower than the Price ($$P$$) due to the price effect.&#x20;
+
+To maximize profit, the monopolist produces where $$MR = MC$$ but then uses its market power to charge the highest price consumers are willing to pay on the demand curve. This results in a Monopoly Price that is higher than Marginal Cost ($$P > MC$$), allowing for long-run economic profit but creating social inefficiency and higher costs for consumers compared to competitive markets.
+
