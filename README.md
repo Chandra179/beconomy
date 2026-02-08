@@ -457,3 +457,22 @@ This is the most important concept in the section. Marginal Product is the _extr
 
 * Why it drops: Imagine Chloe’s kitchen. The first worker is very productive. The second worker helps. But by the fifth or sixth worker, the kitchen gets crowded. They have to wait to use the oven or the mixer.
 * The Result: Each additional worker adds _less_ to total production than the worker before them. This is called Diminishing Marginal Product.
+
+#### Various Measures of Cost
+
+* $$Q$$ (Quantity): The number of units produced (e.g., 5 cups of coffee).
+* $$TC$$ (Total Cost): Everything Conrad pays. This includes his Fixed Cost (the $3.00 rent he pays even if he sells zero) and his Variable Cost (the beans and milk).
+* $$ATC$$ (Average Total Cost): The "per-unit" cost. If you wanted to know the cost of a _typical_ cup in a batch, this is your number.
+* $$MC$$ (Marginal Cost): The "extra" cost. If Conrad is already making 4 cups, how much more will it cost him out of pocket to make that 5th cup?
+
+| Variable                     | At 4 Cups | At 5 Cups | Calculation                               |
+| ---------------------------- | --------- | --------- | ----------------------------------------- |
+| Quantity ($$Q$$)             | 4         | 5         | The change in $$Q$$ is 1.                 |
+| Total Cost ($$TC$$)          | $5.40     | $6.50     | Total spending increased by $1.10.        |
+| Average Total Cost ($$ATC$$) | $1.35     | $1.30     | $$TC / Q$$ (e.g., $6.50 / 5 = $1.30).     |
+| Marginal Cost ($$MC$$)       | —         | $1.10     | The difference in $$TC$$ ($6.50 - $5.40). |
+
+#### Costs in Short Run vs. Long Run
+
+* Short Run: Some costs are fixed (like a factory). If Ford wants to make more cars today, it can't build a new factory overnight; it can only hire more workers at its existing plant.
+* Long Run: All costs become variable. Over several years, Ford can build new factories, close old ones, or change its entire layout.
