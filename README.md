@@ -476,3 +476,67 @@ This is the most important concept in the section. Marginal Product is the _extr
 
 * Short Run: Some costs are fixed (like a factory). If Ford wants to make more cars today, it can't build a new factory overnight; it can only hire more workers at its existing plant.
 * Long Run: All costs become variable. Over several years, Ford can build new factories, close old ones, or change its entire layout.
+
+## Competitive Market
+
+A market is considered perfectly competitive if it meets these primary criteria:
+
+* **Massive Participation**: There are many buyers and many sellers.
+* **Identical Products**: The goods offered by different sellers are largely the same (e.g., milk or wheat).
+* **Price Takers**: Because no single buyer or seller is large enough to influence the market, they must accept the prevailing market price.
+* **Free Entry and Exit**: (Secondary condition) Firms can enter or leave the industry without restriction, which is a key driver for long-run market equilibrium
+
+A firm’s goal is to maximize profit (Total Revenue - Total Cost). In a competitive environment, revenue behaves in a very specific way because the price ($$P$$) remains constant regardless of how much the firm produces.
+
+#### The Logic of Profit Maximization
+
+* $$AVC$$ (Average Variable Cost): The variable cost per unit. This is the "tipping point" for whether you should stay open today or go home.
+  * _Calculation:_ $$VC / Q$$.
+* $$MC$$ (Marginal Cost): The cost of producing one more unit. This is the most important variable for deciding the exact number of units to produce.
+* $$MR$$ (Marginal Revenue) is located exactly at the Market Price
+
+***
+
+A firm maximizes profit by "thinking at the margin." It compares the revenue from the next unit (Marginal Revenue) to the cost of the next unit (Marginal Cost).
+
+* If $$MR > MC$$: The firm should increase production. It is making more on the sale than it spent on the "extra" labor and materials.
+* If $$MR < MC$$: The firm should decrease production. The last unit cost more to make than it brought in.
+* The Sweet Spot: Profit is maximized at the exact quantity where $$MR = MC$$.
+
+Since a competitive firm is a price taker, its Marginal Revenue is simply the Market Price ($$P$$). Therefore, the firm produces where $$P = MC$$.
+
+***
+
+In the **short run**, even if a firm stops producing, it still has to pay Fixed Costs (like rent). These are considered Sunk Costs—money already spent that cannot be recovered.
+
+* The Rule: A firm will shut down temporarily if the money it brings in ($$P$$) cannot even cover its Variable Costs ($$AVC$$).
+* Shut down if $$P < AVC$$.
+* Example: A near-empty restaurant stays open for lunch because the few customers pay for the food and the waiter's wage (variable costs), even if they don't help pay the rent (fixed cost)
+
+***
+
+In the **long run**, all costs are variable. A firm can walk away from its lease and sell its equipment.
+
+* Exit: A firm will leave the market permanently if the price is less than its Average Total Cost.
+  * _Rule:_ Exit if $$P < ATC$$.
+* Entry: A new firm will enter the market if the price is higher than the cost of producing.
+  * _Rule:_ Enter if $$P > ATC$$.
+
+***
+
+We can calculate the exact "box" of profit or loss on a graph using the following formula:
+
+$$\text{Profit} = (P - ATC) \times Q$$
+
+| **Scenario** | **Visual Indicator**          | **Result**                          |
+| ------------ | ----------------------------- | ----------------------------------- |
+| Profit       | Price is above the ATC curve. | The firm earns a surplus.           |
+| Loss         | Price is below the ATC curve. | The firm loses money on every unit. |
+
+| **Relationship** | **Location/Meaning**                                                                |
+| ---------------- | ----------------------------------------------------------------------------------- |
+| $$MR = P$$       | $$MR$$ is always identical to the price in a competitive market.                    |
+| $$MR = MC$$      | This is the point on the horizontal axis that tells you how much to produce.        |
+| $$MR > ATC$$     | If the $$MR$$ line is above your Average Total Cost curve, you are making a profit. |
+| $$MR < ATC$$     | If the $$MR$$ line is below your Average Total Cost curve, you are losing money.    |
+
