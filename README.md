@@ -262,7 +262,7 @@ When a market is efficient, the "economic pie" is as large as it can possibly be
 
 **Market taxation** fundamentally alters the behavior of buyers and sellers by creating a price wedge. When a tax is introduced, the price buyers pay increases while the price sellers receive decreases, regardless of which party is legally responsible for paying the tax. This gap reduces the incentive for market participation, leading to a decrease in the quantity of goods traded. Consequently, taxes cause the market size to shrink below its natural equilibrium, resulting in a **deadweight loss**—a loss of total economic welfare that is not offset by the government's tax revenue.
 
-The severity of this deadweight loss is primarily determined by the price elasticity of supply and demand. In markets where buyers and sellers are highly responsive to price changes (high elasticity), a tax will cause a significant drop in trade, leading to a large deadweight loss. Conversely, in markets where participants are less responsive (low elasticity), such as for necessities like milk or medicine, the market quantity changes very little, and the deadweight loss remains relatively small.&#x20;
+The severity of this deadweight loss is primarily determined by the price elasticity of supply and demand. In markets where buyers and sellers are highly responsive to price changes (**high elasticity**), a tax will cause a significant drop in trade, leading to a large deadweight loss. Conversely, in markets where participants are less responsive (**low elasticity**), such as for necessities like milk or medicine, the market quantity changes very little, and the deadweight loss remains relatively small.&#x20;
 
 As the size of a tax increases, its impact on the economy evolves disproportionately. Deadweight loss grows exponentially; for instance, doubling a tax rate actually quadruples the deadweight loss. Tax revenue, however, follows the Laffer Curve: it initially increases with the tax rate but eventually peaks and starts to decline. This happens because a very high tax rate discourages trade so severely that there is little left to tax. Therefore, **higher tax rates** do not always guarantee higher revenue, as the shrinkage of the "economic pie" can eventually outweigh the government's larger slice of it.
 
@@ -429,114 +429,73 @@ Economists mock the **Flypaper Theory**—the idea that the burden of a tax "sti
   2. Workers (lower wages).
   3. Owners/Shareholders (lower profits).
 
-## Costs Of Production
+***
 
-$$\text{Profit} = \text{Total Revenue} - \text{Total Cost}$$
+## The Foundations of Cost
 
-**Explicit Costs**: These involve an actual outlay of money. Examples for Chloe include paying for flour, sugar, rent, and worker wages.
+A firm's primary goal is to maximize **Profit**, defined as: $$\text{Profit} = \text{Total Revenue} - \text{Total Cost}$$
 
-**Implicit Costs**: These do not require a cash payment but represent a lost opportunity.
+Economists and Accountants view costs differently.
 
-* _Example:_ If Chloe is a skilled programmer who could earn $100/hour elsewhere, every hour she spends baking cookies "costs" her $100 in lost wages.
+* **Explicit Costs:** Actual cash payments (e.g., rent, wages, ingredients).
+* **Implicit Costs:** Opportunity costs that don't require cash (e.g., the $100/hour Chloe gives up by baking instead of programming).
+* **Cost of Capital:** A major implicit cost; it is the interest income lost by using savings to buy business assets rather than investing them.
 
-#### **Cost of Capital**
+**Accounting Profit** = Total Revenue – Explicit Costs\
+**Economic Profit** = Total Revenue – (Explicit + Implicit Costs)
 
-A major implicit cost for most businesses is the interest that could have been earned on invested money.
-
-* Scenario A (Using Savings): If Chloe uses $300,000 of her own savings to buy the factory, her accountant sees $0 cost. An economist sees a $15,000 implicit cost (the 5% interest she gave up).
-* Scenario B (Borrowing): If she borrows $200,000 and uses $100,000 of her own money, the accountant only records the $10,000 interest paid to the bank (explicit). The economist still sees a total cost of $15,000 ($10k explicit + $5k implicit).
-
-**Two Types of Profit**
-
-* Accounting Profit: This is what most people mean when they say "profit." It is simply your Total Revenue minus your Explicit Costs (the cash you actually paid out).
-* Economic Profit: This is the "true" profit from an economist's perspective. It is Total Revenue minus all Opportunity Costs (both Explicit _and_ Implicit).
+***
 
 #### Diminishing Marginal Product
 
-This is the most important concept in the section. Marginal Product is the _extra_ output you get from adding one more worker.
+* **Marginal Product:** The extra output gained by adding one more unit of input (like a worker).
+* **The "Crowded Kitchen" Effect:** As more workers are added to a fixed space (like Chloe’s kitchen), they eventually get in each other’s way.
+* **The Result:** Each additional worker adds less to total production than the one before.
 
-* Why it drops: Imagine Chloe’s kitchen. The first worker is very productive. The second worker helps. But by the fifth or sixth worker, the kitchen gets crowded. They have to wait to use the oven or the mixer.
-* The Result: Each additional worker adds _less_ to total production than the worker before them. This is called Diminishing Marginal Product.
+#### Measures of Cost
 
-#### Various Measures of Cost
+| Variable | Definition            | Example / Logic                                            |
+| -------- | --------------------- | ---------------------------------------------------------- |
+| Q        | Quantity              | Number of units produced (e.g., cups of coffee).           |
+| TC       | Total Cost            | Sum of Fixed Costs (Rent) and Variable Costs (Beans/Milk). |
+| ATC      | Average Total Cost    | The cost of a "typical" unit ($$TC / Q$$).                 |
+| MC       | Marginal Cost         | The cost of the "next" unit ($$\Delta TC / \Delta Q$$).    |
+| AVC      | Average Variable Cost |                                                            |
 
-* $$Q$$ (Quantity): The number of units produced (e.g., 5 cups of coffee).
-* $$TC$$ (Total Cost): Everything Conrad pays. This includes his Fixed Cost (the $3.00 rent he pays even if he sells zero) and his Variable Cost (the beans and milk).
-* $$ATC$$ (Average Total Cost): The "per-unit" cost. If you wanted to know the cost of a _typical_ cup in a batch, this is your number.
-* $$MC$$ (Marginal Cost): The "extra" cost. If Conrad is already making 4 cups, how much more will it cost him out of pocket to make that 5th cup?
+#### **Example: Conrad's Coffee Shop**
 
-| Variable                     | At 4 Cups | At 5 Cups | Calculation                               |
-| ---------------------------- | --------- | --------- | ----------------------------------------- |
-| Quantity ($$Q$$)             | 4         | 5         | The change in $$Q$$ is 1.                 |
-| Total Cost ($$TC$$)          | $5.40     | $6.50     | Total spending increased by $1.10.        |
-| Average Total Cost ($$ATC$$) | $1.35     | $1.30     | $$TC / Q$$ (e.g., $6.50 / 5 = $1.30).     |
-| Marginal Cost ($$MC$$)       | —         | $1.10     | The difference in $$TC$$ ($6.50 - $5.40). |
+| Q | TC    | ATC   | MC        | Calculation Logic                         |
+| - | ----- | ----- | --------- | ----------------------------------------- |
+| 4 | $5.40 | $1.35 | —         | $$5.40 / 4 = 1.35$$                       |
+| 5 | $6.50 | $1.30 | **$1.10** | TC increased by $$1.10; 6.50 / 5 = 1.30$$ |
 
-#### Costs in Short Run vs. Long Run
-
-* Short Run: Some costs are fixed (like a factory). If Ford wants to make more cars today, it can't build a new factory overnight; it can only hire more workers at its existing plant.
-* Long Run: All costs become variable. Over several years, Ford can build new factories, close old ones, or change its entire layout.
-
-## Competitive Market
-
-A market is considered perfectly competitive if it meets these primary criteria:
-
-* **Massive Participation**: There are many buyers and many sellers.
-* **Identical Products**: The goods offered by different sellers are largely the same (e.g., milk or wheat).
-* **Price Takers**: Because no single buyer or seller is large enough to influence the market, they must accept the prevailing market price.
-* **Free Entry and Exit**: (Secondary condition) Firms can enter or leave the industry without restriction, which is a key driver for long-run market equilibrium
-
-A firm’s goal is to maximize profit (Total Revenue - Total Cost). In a competitive environment, revenue behaves in a very specific way because the price ($$P$$) remains constant regardless of how much the firm produces.
-
-#### The Logic of Profit Maximization
-
-* $$AVC$$ (Average Variable Cost): The variable cost per unit. This is the "tipping point" for whether you should stay open today or go home.
-  * _Calculation:_ $$VC / Q$$.
-* $$MC$$ (Marginal Cost): The cost of producing one more unit. This is the most important variable for deciding the exact number of units to produce.
-* $$MR$$ (Marginal Revenue) is located exactly at the Market Price
+* **Short Run:** Some costs are **Fixed** (e.g., Ford cannot build a new factory overnight). Fixed costs are considered **Sunk Costs**—money already spent that cannot be recovered.
+* **Long Run:** All costs are **Variable**. A firm can expand its scale, build new factories, or exit the industry entirely.
 
 ***
 
-A firm maximizes profit by "thinking at the margin." It compares the revenue from the next unit (Marginal Revenue) to the cost of the next unit (Marginal Cost).
+## The Competitive Market
 
-* If $$MR > MC$$: The firm should increase production. It is making more on the sale than it spent on the "extra" labor and materials.
-* If $$MR < MC$$: The firm should decrease production. The last unit cost more to make than it brought in.
-* The Sweet Spot: Profit is maximized at the exact quantity where $$MR = MC$$.
+A perfectly competitive market consists of many buyers and sellers trading identical products.
 
-Since a competitive firm is a price taker, its Marginal Revenue is simply the Market Price ($$P$$). Therefore, the firm produces where $$P = MC$$.
+* **Price Takers:** No single firm can influence the market price ($$P$$).
+* **The Competitive Identity:** Because the price is constant for every unit sold: $$P = MR = AR$$ _(Price = Marginal Revenue = Average Revenue)_
 
-***
+Firms use Marginal Cost ($$MC$$) and Market Price ($$P$$) to make three critical decisions:
 
-In the **short run**, even if a firm stops producing, it still has to pay Fixed Costs (like rent). These are considered Sunk Costs—money already spent that cannot be recovered.
+| Decision       | Timeline   | The Rule                 | Reasoning                                                               |
+| -------------- | ---------- | ------------------------ | ----------------------------------------------------------------------- |
+| Optimal Output | Short/Long | Produce where $$P = MC$$ | If $$P > MC$$, profit grows. If $$P < MC$$, profit shrinks.             |
+| Shutdown       | Short Run  | Shut down if $$P < AVC$$ | If you can't cover variable costs (wages/food), close for the day.      |
+| Exit Market    | Long Run   | Exit if $$P < ATC$$      | If price doesn't cover _all_ costs in the long run, leave the industry. |
 
-* The Rule: A firm will shut down temporarily if the money it brings in ($$P$$) cannot even cover its Variable Costs ($$AVC$$).
-* Shut down if $$P < AVC$$.
-* Example: A near-empty restaurant stays open for lunch because the few customers pay for the food and the waiter's wage (variable costs), even if they don't help pay the rent (fixed cost)
+**Real-World Example (Shutdown):** A near-empty restaurant stays open for lunch if the few customers pay enough to cover the food and waiter’s wages ($$AVC$$), even if they don't help with the rent ($$FC$$).
 
-***
-
-In the **long run**, all costs are variable. A firm can walk away from its lease and sell its equipment.
-
-* Exit: A firm will leave the market permanently if the price is less than its Average Total Cost.
-  * _Rule:_ Exit if $$P < ATC$$.
-* Entry: A new firm will enter the market if the price is higher than the cost of producing.
-  * _Rule:_ Enter if $$P > ATC$$.
-
-***
-
-We can calculate the exact "box" of profit or loss on a graph using the following formula:
+#### Measuring Profit and Loss
 
 $$\text{Profit} = (P - ATC) \times Q$$
 
-| **Scenario** | **Visual Indicator**          | **Result**                          |
-| ------------ | ----------------------------- | ----------------------------------- |
-| Profit       | Price is above the ATC curve. | The firm earns a surplus.           |
-| Loss         | Price is below the ATC curve. | The firm loses money on every unit. |
-
-| **Relationship** | **Location/Meaning**                                                                |
-| ---------------- | ----------------------------------------------------------------------------------- |
-| $$MR = P$$       | $$MR$$ is always identical to the price in a competitive market.                    |
-| $$MR = MC$$      | This is the point on the horizontal axis that tells you how much to produce.        |
-| $$MR > ATC$$     | If the $$MR$$ line is above your Average Total Cost curve, you are making a profit. |
-| $$MR < ATC$$     | If the $$MR$$ line is below your Average Total Cost curve, you are losing money.    |
+* If $$P > ATC$$**:** The firm is earning an Economic Profit.
+* If $$P < ATC$$**:** The firm is incurring an Economic Loss.
+* If $$P = ATC$$**:** The firm is at its "Efficient Scale" (minimum per-unit cost).
 
